@@ -5,6 +5,8 @@ description: This resource explains what is a blog? how blogs have changed the i
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/32f7edb3d28afcd1139fc9bd49b7fd38_MIT21G_034F05_blogs.pdf
 file_size: 550850
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -6,6 +6,8 @@ description: This resource includes information on digital democracy, representa
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/b211e6324b53c4d8d9a02b6c0cc330d7_MIT21G_034F05_ictanddemocr.pdf
 file_size: 593701
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

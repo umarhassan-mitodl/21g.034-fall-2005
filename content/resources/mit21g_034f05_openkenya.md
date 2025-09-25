@@ -5,6 +5,8 @@ description: This resource includes information on significance and importance o
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/cdeba93cb44e729e962617972101315d_MIT21G_034F05_openkenya.pdf
 file_size: 95160
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

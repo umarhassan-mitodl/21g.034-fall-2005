@@ -4,6 +4,8 @@ description: This resource includes information on Raja Bobbili.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/ea1eb4e3ebd5705cf482bfa14fe53a78_MIT21G_034F05_wsisrajabobb.pdf
 file_size: 573111
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
