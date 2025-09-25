@@ -5,6 +5,8 @@ description: This resource contains why study science and/or engineering? how to
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/08516866fc982a2e07db6f6f09e5a3a8_MIT21G_034F05_studysciengi.pdf
 file_size: 598409
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

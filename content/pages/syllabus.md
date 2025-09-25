@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus contains course description, objectives, format, fieldwork
   and final projects, attendance policy, grading criteria, and other related informations.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

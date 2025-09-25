@@ -5,6 +5,8 @@ description: This resource contains adjusting, stages of cultural adjustment, an
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/88a7cdadf77293e0922d69bfefc0fbdc_MIT21G_034F05_beingintlstu.pdf
 file_size: 529942
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
