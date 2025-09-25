@@ -1,0 +1,29 @@
+leftnav:
+- identifier: cf59aa87-2643-ba6c-7a85-b13ff1ce0f14
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e392db57-5663-682d-ff24-969a6181586e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e03c952b-8bba-c2cf-296a-48f3c5c26c11
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 817b383e-7b82-2721-ac2c-16292898491a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 553609a0-02d3-74b3-9d9b-c01fee73f101
+  name: Projects
+  pageRef: /pages/projects
+  weight: 50
+- identifier: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
+  name: iREACT
+  pageRef: /pages/ireact
+  weight: 60
+- identifier: c21edfc2-95ab-37f8-c322-991367410ee4
+  name: ESL Training
+  pageRef: /pages/esl-training
+  weight: 70
