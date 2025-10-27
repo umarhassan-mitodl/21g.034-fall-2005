@@ -4,8 +4,6 @@ description: This resource includes points of discussion on the ICT entrepreneur
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/348b2dd8e72efddf0ad41698158ecf47_MIT21G_034F05_ictentrpnshp.pdf
 file_size: 558362
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

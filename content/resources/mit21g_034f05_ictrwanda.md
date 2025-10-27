@@ -5,8 +5,6 @@ description: This resource includes information on ITC policy in rwanda, progres
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/0d481f406db084b0f7ae745300e2769d_MIT21G_034F05_ictrwanda.pdf
 file_size: 101195
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains purpose, program content, OCW component, and
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/f850a37325e87bee6298b4c6b153733a_MIT21G_034F05_introtoprog.pdf
 file_size: 532917
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

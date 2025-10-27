@@ -5,8 +5,6 @@ description: 'This resource includes information on grading rubric for writing: 
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/44b1031aaf3c28961ba546df73174098_MIT21G_034F05_rubricforwri.pdf
 file_size: 70671
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

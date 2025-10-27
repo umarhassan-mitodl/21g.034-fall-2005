@@ -5,8 +5,6 @@ description: This resource includes information on five discernable misconceptio
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/28e4f49a85d49e20f440960184b17629_MIT21G_034F05_itcentreprde.pdf
 file_size: 600548
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

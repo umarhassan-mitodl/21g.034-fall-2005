@@ -5,8 +5,6 @@ description: This resource contains international student financial aid applicat
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/1f58b38992d52ad694276611d0c9937d_MIT21G_034F05_financingedu.pdf
 file_size: 558676
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

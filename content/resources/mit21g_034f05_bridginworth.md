@@ -5,8 +5,6 @@ description: This resource includes information on digital divide, bridging the 
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/61cbdcc6525e376f6dba4170fd9a2447_MIT21G_034F05_bridginworth.pdf
 file_size: 553995
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

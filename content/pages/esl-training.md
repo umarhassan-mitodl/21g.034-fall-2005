@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: ESL Training
@@ -14,7 +12,7 @@ Purpose
 
 This page is dedicated to an ESL training program developed in 21G.034 / CMS.930. Below are tutorials targeted for South Korean students trying to learn English. This page is to serve as a proof of concept that this type of web-based educational material is very effective in teaching communication skills. These tutorials were created by Susan MacDonald. Note that all material on this page is presented with the permission of Susan MacDonald.
 
-How to use this site. ([MP4 - 3MB](http://archive.org/download/MIT21F.034F05/ocw-21f-034-susan-intro-how-to-220k.mp4))
+How to use this site. ({{% resource_link "17e5b143-597d-4dec-aec1-cfb8052a0b7e" "MP4 - 3MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -83,7 +81,7 @@ Couldn't (cuhdnt); What Do You (whaddoyou); I'll (eyeyull)
 
 {{< tableclose >}}
 
-Video ([MP4 - 17MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-beg-int-esl-class-1-220k.mp4))
+Video ({{% resource_link "e6793286-ca58-4a6d-a710-06e4abdfed6e" "MP4 - 17MB" %}})
 
 Video Text ({{% resource_link 6ec6d469-e73e-56e5-14f2-3030c06a637d "PDF" %}})
 
@@ -154,7 +152,7 @@ Out of (ahouda)
 
 {{< tableclose >}}
 
-Video ([MP4 - 18MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-int-eslclass-1-220k.mp4))
+Video ({{% resource_link "87bd4c17-df45-4a39-a026-5673897bb31c" "MP4 - 18MB" %}})
 
 Video Text ({{% resource_link 43d77656-c067-13be-e4bb-b11c8f5718b5 "PDF" %}})
 
@@ -225,6 +223,6 @@ Rising Intonation-Maybe Just a Few Hours?
 
 {{< tableclose >}}
 
-Video ([MP4 - 25MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-adv-int-class-1-220k.mp4))
+Video ({{% resource_link "10729f8c-2bbb-4054-938d-5e6d405c8f4b" "MP4 - 25MB" %}})
 
 Video Text ({{% resource_link 4ceaa91e-25a5-911c-9252-b7776b5bbef8 "PDF" %}})

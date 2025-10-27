@@ -5,8 +5,6 @@ description: This resource includes information on class one- beginner intermedi
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/2937b5455ba8690503d6212c40c8b602_MIT21G_034F05_ClassOne.pdf
 file_size: 526735
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource includes information on how to revise.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/8d3ac7b5d8c3d378af2086f0d5ec7b37_MIT21G_034F05_revisingdraf.pdf
 file_size: 539412
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

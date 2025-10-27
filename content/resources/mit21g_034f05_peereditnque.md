@@ -4,8 +4,6 @@ description: This resource includes a form to be used by peer while editing the 
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/2e6cdb47d0f1a3d61fb9883006b77617_MIT21G_034F05_peereditnque.pdf
 file_size: 565341
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

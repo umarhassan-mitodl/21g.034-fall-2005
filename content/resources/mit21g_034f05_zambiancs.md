@@ -5,8 +5,6 @@ description: 'This resource include information on background, imapct, challenge
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/b64ff1a2621dfac37a92e58690ebf9e5_MIT21G_034F05_zambiancs.pdf
 file_size: 643640
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

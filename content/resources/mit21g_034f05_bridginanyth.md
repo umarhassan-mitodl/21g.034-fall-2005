@@ -5,8 +5,6 @@ description: This resource includes information on digital device, technology of
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/c0e649d3de6ae1975895364b1e07435a_MIT21G_034F05_bridginanyth.pdf
 file_size: 141344
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

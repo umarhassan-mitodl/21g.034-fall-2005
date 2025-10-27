@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This resource includes the projects presented by the students.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

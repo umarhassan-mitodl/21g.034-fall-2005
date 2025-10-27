@@ -6,8 +6,6 @@ description: 'This resource contains what is the essay all about? suggestions fr
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/604ea777024211248b15ed7f3d7dbc2a_MIT21G_034F05_essayinfo.pdf
 file_size: 545758
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
